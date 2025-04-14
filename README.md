@@ -1,3 +1,12 @@
+
+<h1>| For learners |</h1>
+It's made for learning  purposes and may help beginner programmers understand:<br>
+- How to work with structs and arrays:<br>
+- How to read/write files<br>
+- How to split code into multiple files<br>
+
+<h3>---------------------------------------------------------------------------------------------------------------------------</h3>
+
 <h1># Note manager in C</h1>
 
 This is a simple command-line Note manager written in C Programming Language.
@@ -29,3 +38,5 @@ bash<br>
 
 <h2>License</h2>
 This project is open-source and free to use
+
+
